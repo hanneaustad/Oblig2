@@ -1,3 +1,30 @@
+.main-bilde{
+    position: relative;
+}
+
+.main-bilde img{
+    max-width: 100%;
+    height: auto;
+}
+
+.main-text1{
+    position: absolute;
+    top: 45%;
+    color: #fff;
+}
+
+.main-text2{
+    position: absolute;
+    top: 5%;
+    color: #fff;
+}
+
+.main-text3{
+    position: absolute;
+    top: 90%;
+    color: #fff;
+}
+
 
 .tekst {
     font-family:Times New Roman, Times, serif;
