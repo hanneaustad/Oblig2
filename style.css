@@ -59,12 +59,18 @@ body {
 .tekst {
     font-family:Times New Roman, Times, serif;
     color: black;
-    font-weight: normal; }
+    font-weight: normal; 
+
+}
+    
 
     .sidebartittel {
         font-family: Tahoma, sans-serif;
         color: #2e2f36;
-        font-weight: normal; }
+        font-weight: normal; 
+        font-size: 45px;
+    }
+        
 
 .sidebar {
     font-family: Arial, Helvetica, sans-serif;
@@ -94,4 +100,11 @@ body {
 .sidebar2 {
     font-family: Arial, Helvetica, sans-serif;
     color: #2e2f36;
-    font-weight: bold; }
+    font-weight: bold; 
+}
+
+    .grid-3-columns {
+        display: grid;
+        grid-template-columns: 33% 33% 33%;
+        font-size: 2em;
+    }
