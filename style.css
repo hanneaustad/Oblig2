@@ -1,0 +1,40 @@
+
+.tekst {
+    font-family:Times New Roman, Times, serif;
+    color: black;
+    font-weight: normal; }
+
+    .sidebartittel {
+        font-family: Tahoma, sans-serif;
+        color: #2e2f36;
+        font-weight: normal; }
+
+.sidebar {
+    font-family: Arial, Helvetica, sans-serif;
+    color: coral;
+    font-weight: bold; }
+
+.grå {
+    color: grey; }
+
+.tittel2 {
+    font-family: Tahoma, sans-serif; 
+    color: #2e2f36;
+    font-weight: bold; }
+
+.rosa {
+    color: #ec446b; }
+
+.tittel2undertekst {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: bold; }
+
+.sidebartittel2 {
+    font-family: Tahoma, sans-serif;
+    color: #ec446b;
+    font-weight: normal; }
+.sidebar2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2e2f36;
+    font-weight: bold; }
