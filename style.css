@@ -54,21 +54,43 @@ body {
 
 }
 
-
 .tekst {
     font-family:Times New Roman, Times, serif;
     color: black;
-    font-weight: normal; }
+    font-weight: normal; 
+    font-size: 25px;
+    line-height: 1.6;
+}
+
+.storbokstav {
+    float: left;
+font-size: 200px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 10rem;
+}
+
 
     .sidebartittel {
+        text-align: right;
         font-family: Tahoma, sans-serif;
         color: #2e2f36;
-        font-weight: normal; }
+        font-weight: normal; 
+        font-size: 30px;
+        margin-right: 10em;
+    }
+
 
 .sidebar {
     font-family: Arial, Helvetica, sans-serif;
     color: coral;
-    font-weight: bold; }
+    font-weight: bold; 
+font-size: 18px;
+width: 600px;
+margin-left: -7em;
+margin-top: 3em;
+line-height: 1.6;
+}
 
 .grå {
     color: grey; }
@@ -93,4 +115,12 @@ body {
 .sidebar2 {
     font-family: Arial, Helvetica, sans-serif;
     color: #2e2f36;
-    font-weight: bold; }
+    font-weight: bold; 
+}
+
+    .grid-3-columns {
+        display: grid;
+        grid-template-columns: 35% 35% 35%;
+        font-size: 2em;
+        padding: 20px;
+    }
